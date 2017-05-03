@@ -16,6 +16,10 @@ and overlays the following image over the pink square.
 
 https://drive.google.com/open?id=0B8hGKwjNNbSTMVFPSHRDWm1DY1k
 
+### Running
+
+To run the script, simply download all the files and run the "midterm_AR.m" file on Matlab. 
+
 #### Credit
 
 Most work created by Professor Anastasios Mourikis. Leaving the image thresholding, Canny edge detection, RANSAC line fitting, and corner detection to me, Peter Hung.
